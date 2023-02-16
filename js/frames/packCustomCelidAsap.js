@@ -47,7 +47,7 @@ document.querySelector('#loadFrameVersion').onclick = async function() {
 		mana: {name:'Mana Cost', text:'', x:0.37, y:0.0267, width:0.26, height:54/2100, oneLine:true, size:54/1638, align:'center', manaCost:true, manaSpacing:0},
 		title: {name:'Title', text:'', x:0.06, y:0.0743, width:0.88, height:0.04, oneLine:true, font:'belerenb', size:0.04, color:'white', align:'center'},
 		type: {name:'Type', text:'', x:0.07, y:0.9058, width:0.86, height:0.0286, oneLine:true, font:'belerenb', size:0.0286, color:'white', align:'center'},
-		rules: {name:'Rules Text', text:'', x:0.074, y:0.672, width:0.852, height:0.2191, size:0.0362, color:'white', align:'center'},
+		rules: {name:'Rules Text', text:'', x:0.074, y:0.690, width:0.852, height:0.2391, size:0.0362, color:'black', align:'center'},
 		pt: {name:'Power/Toughness', text:'', x:0.8367, y:0.8943, width:0.11, height:0.0372, size:0.0372, font:'belerenbsc', oneLine:true, align:'center', color:'white'}
 	});
 	//bottom info
